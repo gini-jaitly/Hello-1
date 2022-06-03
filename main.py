@@ -1,1 +1,3 @@
 print("Yay!!")
+
+print("Hi")
